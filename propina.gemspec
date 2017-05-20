@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["dancortes@protonmail.com"]
 
   spec.summary       = %q{A gem for generating tip values based on a number of inputs.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/ldco2016/propina"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
